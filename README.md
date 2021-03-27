@@ -1,8 +1,8 @@
 # FinTech
 ## Introduction
-> Name : 葉芯妤
-> Major : Soochow University Big Data
-> Student ID : 08170123
+>  Name : 葉芯妤
+>  Major : Soochow University Big Data
+>  Student ID : 08170123
 ## HomeWork
 
 > * [HW1 : What do you think of Cloud Computing ?](https://github.com/Katrina00/FinTech/blob/main/HW1/HW1.md)
