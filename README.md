@@ -1,7 +1,9 @@
 # FinTech
 ## Introduction
 >  Name : 葉芯妤
+>  
 >  Major : Soochow University Big Data
+>  
 >  Student ID : 08170123
 ## HomeWork
 
