@@ -1,11 +1,11 @@
 # FinTech
-## Introduction
+# Introduction
 >  Name : 葉芯妤
 >  
 >  Major : Soochow University Big Data
 >  
 >  Student ID : 08170123
-## HomeWork
+# HomeWork
 
 > * [HW1 : What do you think of Cloud Computing ?](https://github.com/Katrina00/FinTech/blob/main/HW1/HW1.md)
 > * [HW2 : Build a Website using Amazon EC2 with LAMP](https://youtu.be/XJgfqAS-yCE)
@@ -14,4 +14,4 @@
 > * HW5 : Create a Database using Amazon RDS or Amazon DynamoDB
 > * HW6 : Create a Docker Container or Build your own Project Services
 
-## 
+# Learning Schedule
