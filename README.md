@@ -26,3 +26,4 @@
 > ### 實作方向：
 >  特徵工程、API設計、行為數據收集、分析歸納風險行為
 
+> 5/10 [專案追蹤](https://docs.google.com/presentation/d/1pB_SHe_BgU2wxCidyJWc9yqEgEC9Tw5u/edit#slide=id.p7) 
